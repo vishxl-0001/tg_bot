@@ -1,4 +1,3 @@
-```python
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 import os
@@ -57,4 +56,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-```
+
